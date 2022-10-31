@@ -23,5 +23,5 @@ KL-RF.ipynb demonstrates how to use random forest to predict disease-gene associ
 ## 5. Contact
 If any questions, please do not hesitate to contact me at:
 <br>
-Hongdong Li `hongdong@csu.edu.cn`
+Hai Liu `liuhai0601@csu.edu.cn`
 
